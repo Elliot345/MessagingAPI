@@ -32,6 +32,7 @@ class Main {
 
     run();
   }
+
   public static void main(String[] args) throws java.io.IOException, java.lang.InterruptedException {
     Main main = new Main();
     main.start();
